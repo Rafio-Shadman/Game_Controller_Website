@@ -20,11 +20,20 @@
 }
 
 .navbar{
-    background: wheat;
+   
     height: 13vh; 
 }
 
 .hero-section{
-    background: orange;
+    
     height: calc(100vh - 13vh);
 }
+
+
+
+.image-container img{
+
+    max-width: 100%;
+    height: auto;
+}
+  
